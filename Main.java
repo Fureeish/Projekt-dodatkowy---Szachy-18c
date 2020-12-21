@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello!");
         System.out.println("Super secret stuff!!!1111oneone");
 
+        System.out.println("Wiktor Orzołek");
         System.out.println("Hello from Karol");
         System.out.println("Hello from Nikita <3");
         System.out.println("Domo from jeremi");
