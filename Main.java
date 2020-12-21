@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Wiktor Orzołek");
         System.out.println("Hello from Karol");
         System.out.println("Hello from Nikita <3");
+        System.out.println("Hello from xinote");
         System.out.println("Bonjour - Tomczyk");
         System.out.println("Domo from jeremi")
         System.out.println("edit maciejzelias1");
