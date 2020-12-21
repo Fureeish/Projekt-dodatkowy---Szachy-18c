@@ -1,3 +1,3 @@
 # testRepository
 
-Tutaj jest plik, w którym piszemy, o czym jest kod i jakieś wskazówki
+This is a file, where we write what this code is about+some clues
