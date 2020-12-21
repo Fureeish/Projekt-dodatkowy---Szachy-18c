@@ -6,6 +6,7 @@ public class Main {
         System.out.println("giziuuu");
         System.out.println("Wiktor Orzołek");
         System.out.println("Hello from Karol");
+        System.out.println("This is getting out of hand. Now there are two of them!");
         System.out.println("Hello from Nikita <3");
         System.out.println("Hello from xinote");
         System.out.println("Bonjour - Tomczyk");
