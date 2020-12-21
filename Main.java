@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello!");
         System.out.println("Super secret stuff!!!1111oneone");
+        System.out.println("Made by Karol Sieradzki");
         System.out.println("giziuuu");
         System.out.println("Wiktor Orzołek");
         System.out.println("Hello from Karol");
