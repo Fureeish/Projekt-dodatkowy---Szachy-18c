@@ -1,17 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello!");
-        System.out.println("Super secret stuff!!!1111oneone");
-        System.out.println("Made by Karol Sieradzki");
-        System.out.println("giziuuu");
-        System.out.println("Wiktor Orzołek");
-        System.out.println("Hello from Karol");
-        System.out.println("This is getting out of hand. Now there are two of them!");
-        System.out.println("Hello from Nikita <3");
-        System.out.println("Wasap from Roman");
-        System.out.println("Hello from xinote");
-        System.out.println("Bonjour - Tomczyk");
-        System.out.println("Domo from jeremi")
-        System.out.println("edit maciejzelias1");
+        Piece[] whitePawns = new Piece[8];
+        for (int i = 0; i < whitePawns.length; i++) {
+            Piece newPiece = new Piece();
+            newPiece.type = Type.PAWN;
+            newPiece.color = Color.WHITE;
+            whitePawns[i] = newPiece;
+        }
     }
 }
